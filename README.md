@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín González</h1>
 <h3 align="center">Frontend developer & Digital Marketer from Argentina</h3>
 
-<img align="right" alt="Coding GIF" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen" >
+<img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*5CZwLt-HSxgaztHi-lxs3g.gif" >
 
 - 🔭 I’m currently working on **GuitarLA**
 

@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **React, Remix & NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/martingonz96](https://github.com/martingonz96)
+- 👨‍💻 All of my projects are available at [https://github.com/martingonz96?tab=repositories](https://github.com/martingonz96?tab=repositories)
 
 - 📫 How to reach me **martingonzalezachaval@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/martín gonzález achaval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martín gonzález achaval" height="30" width="40" /></a>
-<a href="https://fb.com/martín gonzález achaval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martín gonzález achaval" height="30" width="40" /></a>
-<a href="https://instagram.com/martín gonzález achaval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martín gonzález achaval" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mart%C3%ADn-gonz%C3%A1lez-achaval/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martín gonzález achaval" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mora.gonzalezachaval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martín gonzález achaval" height="30" width="40" /></a>
+<a href="https://www.instagram.com/moragonzalezachaval/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martín gonzález achaval" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martín González</h1>
-<h3 align="center">Frontend developer & Digital Marketer from Argentina</h3>
+<h3 align="center">Fullstack developer & Digital Marketer from Argentina</h3>
 
 <img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*5CZwLt-HSxgaztHi-lxs3g.gif" >
 
